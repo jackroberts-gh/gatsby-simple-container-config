@@ -1,5 +1,4 @@
 resources:
  - dev
  - prod
-
- - test
+ - testing
