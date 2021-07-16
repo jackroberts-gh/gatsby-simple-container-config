@@ -12,4 +12,4 @@ patchesStrategicMerge:
 images:
 - name: quay.io/pne_roberts/gatsby-simple-container
   newTag: c8acda7bc193e7b480ae25fd0e4ac5eb01cf493b
-namePrefix: feature/change-site
+namePrefix: change-site
